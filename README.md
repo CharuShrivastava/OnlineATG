@@ -2,7 +2,7 @@
 practice
 package wrappers;
 
-public class TestLeafWrappers extends GenericWrappers  {
+public class Tester extends Generictest  {
 	
 	 public void login() throws Exception{
 		 invokeApp("chrome" , "http://Flipkart.com/control/main");
