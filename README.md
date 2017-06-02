@@ -6,8 +6,8 @@ public class TestLeafWrappers extends GenericWrappers  {
 	
 	 public void login() throws Exception{
 		 invokeApp("chrome" , "http://Flipkart.com/control/main");
-		 enterById("username" , "DemoSalesManager");
-		 enterById("password" , "crmsfa");
+		 enterById("username" , "ABCDSF");
+		 enterById("password" , "xncbm");
 		 clickByClassName ("decorativeSubmit");
 	 }
 
