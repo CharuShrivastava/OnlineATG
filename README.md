@@ -8,7 +8,7 @@ public class Tester extends Generictest  {
 		 invokeApp("chrome" , "http://Flipkart.com/control/main");
 		 enterById("username" , "ABCDSF");
 		 enterById("password" , "xncbm");
-		 clickByClassName ("decorativeSubmit");
+		 clickByClassName ("Submit button");
 	 }
 
 sysout("This is just trial ");
